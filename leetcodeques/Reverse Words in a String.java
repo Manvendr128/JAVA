@@ -1,3 +1,5 @@
+package leetcodeques;
+
 class Solution {
     public String reverseWords(String s) {
         String[] arr = s.trim().split("\\s+");

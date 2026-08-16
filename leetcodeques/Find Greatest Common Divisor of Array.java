@@ -1,3 +1,5 @@
+package leetcodeques;
+
 class Solution {
     public int findGCD(int[] arr) {
         int small = arr[0];
